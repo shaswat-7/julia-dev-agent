@@ -1,0 +1,8 @@
+{
+  "name": "julia-dev-agent",
+  "version": "0.1.0",
+  "description": "End-to-end Julia engineering agent for analysis, development, testing and code review",
+  "author": {
+    "name": "Shaswat Kumar"
+  }
+}
