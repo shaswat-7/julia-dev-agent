@@ -1,0 +1,13 @@
+{
+  "name": "shaswat-julia-tools",
+  "owner": {
+    "name": "Shaswat Kumar"
+  },
+  "plugins": [
+    {
+      "name": "julia-dev-agent",
+      "source": "./plugins/julia-dev-agent",
+      "description": "End-to-end Julia development agent with analysis, development, testing and review skills"
+    }
+  ]
+}
